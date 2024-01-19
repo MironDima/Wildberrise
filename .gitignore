@@ -1,5 +1,5 @@
 /node_modules
-package-lock.jsonnpm 
+package-lock.json
 /src
 package.json
 webpack.config.js
